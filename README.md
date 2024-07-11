@@ -55,3 +55,6 @@ anchor deploy
 Check the tests where provides all information to use each instruction and the expected data.
 
 
+### Youtube video
+
+`https://youtu.be/MuU5fUQ0BLU`
